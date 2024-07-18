@@ -40,7 +40,7 @@ This will run the test suite and output the results to your console.
 ## Building for Production
 
 To create a production build, use:
-**npm build**
+**npm run build**
 
 This will create a `build` directory with the production-ready files.
 
