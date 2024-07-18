@@ -25,7 +25,7 @@ To install the Poll Form App, follow these steps:
 To use Poll Form App, follow these steps:
 
 1. Start the development server
-   npm start
+   **npm start**
 2. Open your web browser and visit `http://localhost:3000`
 
 The app should now be running and you can interact with the poll form.
@@ -33,14 +33,14 @@ The app should now be running and you can interact with the poll form.
 ## Running Tests
 
 To run tests, use the following command:
-npm test
+**npm test**
 
 This will run the test suite and output the results to your console.
 
 ## Building for Production
 
 To create a production build, use:
-npm run build
+**npm build**
 
 This will create a `build` directory with the production-ready files.
 
