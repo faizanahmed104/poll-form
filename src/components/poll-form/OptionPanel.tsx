@@ -71,6 +71,9 @@ const OptionPanel = ({
                   left: '50%',
                   transform: 'translateX(-50%)',
                   whiteSpace: 'nowrap',
+                  backgroundColor: 'red',
+                  padding: '4px 8px',
+                  borderRadius: '4px',
                 }}
               >
                 {option.label}
